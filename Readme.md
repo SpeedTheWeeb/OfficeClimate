@@ -1,2 +1,3 @@
 <h1>How to update</h1>
-When you're done with the compiled file, replace the main.cpp file
+1: When done with the file, export the main.cpp
+2: upload file to github
